@@ -3,6 +3,14 @@
 - Full-stack developer with a keen eye for detail and a determination to deliver the highest quality. I am very proud of my work and I always try to improve myself with each project I work on. The main areas of my specialization are HTML, CSS, Php, Php Framework, JavaScript e Jquery. | 💜 💻 🚀.
 
 <div align="center">
+  <a href="https://github.com/ssayres">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunocasDev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunocasDev&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
+<hr/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/brunocristo-dev/">
   <img height="https://avatars.githubusercontent.com/u/72399765?v=4"/>
 </div>
@@ -21,11 +29,10 @@
 ![ @brenonovelli](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ @brenonovelli](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
- 
-<div> 
- 
+<hr/>
+
+<div>
  <a href="https://www.facebook.com/bruno.crist1245/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunocristo55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunocristo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
 </div>
