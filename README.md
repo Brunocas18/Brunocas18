@@ -3,9 +3,10 @@
 - Full-stack developer with a keen eye for detail and a determination to deliver the highest quality. I am very proud of my work and I always try to improve myself with each project I work on. The main areas of my specialization are HTML, CSS, Php, Php Framework, JavaScript e Jquery. | 💜 💻 🚀.
 
 <div align="center">
-  <a href="https://github.com/ssayres">
+  <a href="https://github.com/BrunocasDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunocasDev&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunocasDev&layout=compact&langs_count=7&theme=monokai"/>
+  </a>
 </div>
 
 <hr/>
